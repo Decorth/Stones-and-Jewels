@@ -4,7 +4,7 @@ Was an exercise given at LeetCode.com, it was a quick exercise that I did to ref
 
 
 What I learned:
-- I learned that instead of using contains() for an object that isn't a character sequence, one should use indexOf
+- I learned that instead of using contains() for an object that isn't a character sequence, one should use indexOf and check if there is a non-negative value returned.
 
 
 Expected time to solve: 5 minutes
