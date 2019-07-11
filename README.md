@@ -1,6 +1,10 @@
 # Stones-and-Jewels
 
-Problem given in LeetCode.
+Was an exercise given at LeetCode.com, it was a quick exercise that I did to refresh my knowledge on strings.
+
+
+What I learned:
+- I learned that instead of using contains() for an object that isn't a character sequence, one should use indexOf
 
 
 Expected time to solve: 5 minutes
